@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Template voor Java uitwerkingen in IVH5 #
 
 Deze repository bevat een handige structuur voor het maken van je uitwerkingen van het Java prakticum. Door een eigen kopie van deze repository te maken en deze binnen je eigen account te bewaren kun je snel aan de slag.
@@ -35,3 +36,7 @@ Deze repository bevat een handige structuur voor het maken van je uitwerkingen v
 4. Iedere week bevat een map `src\main\java`. Hierin zet je je Java source code - de uitwerkingen van je prakticum. Let op: gebruik een zinvolle packagestructuur.
 5. Iedere week bevat een `gradle.build` bestand. De code compileert (en test, als je testcases hebt) door `gradle build` vanaf de commandline aan te roepen.
 6. Je creëert Eclipse projectbestanden door `gradle eclipse` aan te roepen. Vervolgens kun je je sources in Eclipse importeren als bestaande Eclipse projecten via 'Import > Existing projects'.
+=======
+xandergerreman
+==============
+>>>>>>> c98c855a289ec28e989eb31cc55fc19f3fdfc32c
