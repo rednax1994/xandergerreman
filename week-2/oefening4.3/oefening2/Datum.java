@@ -1,4 +1,4 @@
-package BusinessEntityDomain;
+package oefening2;
 
 public class Datum {
 	private int dag;

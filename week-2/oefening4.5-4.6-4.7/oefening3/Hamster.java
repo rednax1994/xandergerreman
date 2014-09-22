@@ -1,4 +1,4 @@
-package BusinessEntityDomain;
+package oefening3;
 
 public class Hamster extends Huisdier {
 	

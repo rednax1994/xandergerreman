@@ -1,4 +1,4 @@
-package BusinessEntityDomain;
+package oefening2;
 
 import java.util.ArrayList;
 

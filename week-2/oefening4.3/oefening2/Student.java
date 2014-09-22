@@ -1,4 +1,4 @@
-package BusinessEntityDomain;
+package oefening2;
 
 public class Student {
 	private String naam;
