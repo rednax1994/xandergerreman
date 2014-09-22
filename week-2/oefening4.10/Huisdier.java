@@ -1,6 +1,6 @@
 public interface Huisdier {
 
-	abstract public String getNaam();
+	public String getNaam();
 	
-	abstract public void maakGeluid();
+	public void maakGeluid();
 }

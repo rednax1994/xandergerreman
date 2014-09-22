@@ -5,6 +5,6 @@ public class Hond extends AbstractHuisdier {
 	}
 
 	public void maakGeluid() {
-		System.out.println("woof");
+		System.out.println("Hond zegt: woof");
 	}
 }

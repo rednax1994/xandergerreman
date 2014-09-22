@@ -5,7 +5,7 @@ public class Kat extends AbstractHuisdier {
 	}
 
 	public void maakGeluid() {
-		System.out.println("miauw!");
+		System.out.println("Kat zegt: miauw!");
 	}
 
 }
