@@ -1,9 +1,13 @@
 package BusinessEntityDomain;
 
 public class Vak {
-	private String toString;
-
+	private String omschrijving;
+	
+	public Vak(String omschrijving){
+		this.omschrijving = omschrijving;
+	}
+	
 	public String toString() {
-		return toString;
+		return omschrijving;
 	}
 }
