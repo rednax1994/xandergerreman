@@ -1,9 +1,9 @@
-package oefening3;
+package oefening4;
 
-import oefening4.Dierenwinkel;
-import oefening4.Hamster;
-import oefening4.Hond;
-import oefening4.Kat;
+import oefening3.Dierenwinkel;
+import oefening3.Hamster;
+import oefening3.Hond;
+import oefening3.Kat;
 
 public class main {
 

@@ -1,8 +1,8 @@
-package oefening3;
+package oefening4;
 
 import java.util.ArrayList;
 
-import oefening4.Huisdier;
+import oefening3.Huisdier;
 
 public class Dierenwinkel {
 

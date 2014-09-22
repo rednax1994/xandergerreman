@@ -1,6 +1,6 @@
-package oefening3;
+package oefening4;
 
-import oefening4.Huisdier;
+import oefening3.Huisdier;
 
 public class Hamster extends Huisdier {
 	
