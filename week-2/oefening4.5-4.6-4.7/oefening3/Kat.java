@@ -7,7 +7,7 @@ public class Kat extends Huisdier{
 	}
 
 	public void maakGeluid(){
-		System.out.println("miauw!");
+		System.out.println("geluid van kat: miauw!");
 	}
 	
 	public void spin(){

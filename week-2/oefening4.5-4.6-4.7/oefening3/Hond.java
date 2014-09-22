@@ -7,11 +7,11 @@ public class Hond extends Huisdier{
 	}
 	
 	public void maakGeluid(){
-		System.out.println("woef!");
+		System.out.println("geluid van hond: woef!");
 	}
 	
 	public void kwispel(){
-		System.out.println("kwispel");
+		System.out.println("hond kwispel");
 	}
 
 }

@@ -7,7 +7,7 @@ public class Hamster extends Huisdier {
 	}
 	
 	public void maakGeluid(){
-		System.out.println("najanajanajaj");
+		System.out.println("geluid van hamster: najanajanajaj");
 	}
 	
 }

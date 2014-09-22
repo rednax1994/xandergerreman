@@ -10,7 +10,7 @@ public class main {
 		Persoon p2 = new Persoon("Robbie", "Marialaan 9a", "Breda");
 		Persoon p3 = new Persoon("Matteo", "Marialaan 9a", "Breda");
 
-		ArrayList<Persoon> lijst = new ArrayList();
+		ArrayList<Persoon> lijst = new ArrayList<Persoon>();
 
 		lijst.add(p1);
 		lijst.add(p2);
