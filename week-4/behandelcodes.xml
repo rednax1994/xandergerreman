@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behandelCode xmlns="behandelcodes"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://myNameSpace.com behandelcodes.xsd">
+
+	<behandelCode>		</behandelCode>
+	<behandelingNaam>	</behandelingNaam>
+	<aantalSessies>		</aantalSessies>
+	<sessieDuur>		</sessieDuur>
+	<tariefBehandeling>	</tariefBehandeling>
+	
+</behandelCode>

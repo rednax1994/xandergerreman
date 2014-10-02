@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.example.org/factuur" 
+xmlns:tns="http://www.example.org/factuur" 
+elementFormDefault="qualified">
+
+<element name="factuur">
+	<complexType>
+		<sequence>
+			<element name="FactuurNummer" type ="integer"/>
+			<element name="FactuurDatum" type="date"/>
+			<element name="VervalDatum" type="date"/>
+		</sequence>
+	</complexType>
+</element>
+</schema>

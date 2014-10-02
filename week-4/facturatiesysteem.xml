@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<klant xmlns="klanten"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://myNameSpace.com facturatiesysteem.xsd">
+
+	<BSN>					</BSN>
+	<naam>					</naam>
+	<adres>					</adres>
+	<postcode>				</postcode>
+	<woonplaats>			</woonplaats>
+	<geboortedatum>			</geboortedatum>
+	<telefoonnummer>		</telefoonnummer>
+	<email>					</email>
+	<methode>				</methode>
+	<resterendEigenRisico>	</resterendEigenRisico>
+	<rekeningNummer>		</rekeningNummer>
+
+</klant>

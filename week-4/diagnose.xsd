@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.example.org/diagnose" 
+xmlns:tns="http://www.example.org/diagnose" 
+elementFormDefault="qualified">
+
+<element name="diagnose">
+	<complexType>
+		<sequence>
+			<element name="FysiopraktijkNummer" type ="integer"/>
+			<element name="BehandelCodes" type="string"/>
+			<element name="BehandelStartDatum" type="date"/>
+			<element name="BehandelEindDatum" type="date"/>
+		</sequence>
+	</complexType>
+</element>
+
+</schema>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagnose xmlns="SDD - Informatica(v0.4).doc"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://myNameSpace.com diagnose.xsd">
+
+	<FysioPraktijkNummer>	</FysioPraktijkNummer>
+	<BehandelCodes>			</BehandelCodes>
+	<BehandelStartDatum>	</BehandelStartDatum>
+	<BehandelEindDatum>		</BehandelEindDatum>
+
+</Diagnose>
